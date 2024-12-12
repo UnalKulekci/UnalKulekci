@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-<br>🔭 je suis étudiant en première année en informatique et systèmes de communication à la HES-SO Valais. <br>🌱 Je cherche à améliorer mes compétences en programmation Scala. <br>J'étudie également la cryptographie et la sécurité réseau (OSI-TCP/IP, Subnetting, etc.). <br>⚡ J'ai également terminé un bootcamp sur les services AWS et les outils DevOps il y a un an.<br><br>
+<br>🔭 je suis étudiant en deuxième année en informatique et systèmes de communication à la HES-SO Valais. <br>🌱 Je cherche à améliorer mes compétences en programmation Scala,Sql, python, Julia. <br>J'étudie également la cryptographie et la sécurité réseau (OSI-TCP/IP, Subnetting, etc.). <br>⚡ J'ai également terminé un bootcamp sur les services AWS et les outils DevOps il y a un an.<br><br>
 
 
 ## 🌐 Socials:
